@@ -1,1 +1,1 @@
-# footprint-app-ads
+# footprint-app
